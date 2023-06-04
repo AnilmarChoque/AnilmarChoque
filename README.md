@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/anilmar-orellana-736611263/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
 </div>
 
-## GitHub e Linguagens
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilmarChoque)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilmarChoque&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+## Estatísticas e Linguagens
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilmarChoque)](https://github.com/AnilmarChoque/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilmarChoque&hide_progress=true)](https://github.com/AnilmarChoque/github-readme-stats)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
