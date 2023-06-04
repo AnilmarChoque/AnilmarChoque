@@ -1,5 +1,5 @@
 # Olá, Eu sou o Anilmar 🤙
-👩‍💻 Estudo atualmente na ETEC HAS e nn Senai Robert Simonsen
+👩‍💻 Estudo atualmente na ETEC HAS e na Senai Robert Simonsen
 
 🧠 Estou aprendendo Desenvolvimento de Sistemas e Redes de computadores
 
