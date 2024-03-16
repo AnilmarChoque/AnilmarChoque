@@ -14,4 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilmarChoque&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilmarChoque&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="top" src="https://github.com/AnilmarChoque/AnilmarChoque/assets/99197806/76cab0ec-1004-4fa2-ba2f-70f0f59c7682" width="325" height="auto"/> <img align="right" alt="TokitouGif" src="https://cdn.discordapp.com/attachments/1114785226430885910/1114785309490696222/muichirotokito-demonslayer.gif?ex=65ed42b9&is=65dacdb9&hm=44c300d18f344e7b2d56a55e9702b3d92d6ede23597e1e42da4e2983e64b717b&" width="250" height="auto"/>
+<img align="top" src="https://github.com/AnilmarChoque/AnilmarChoque/assets/99197806/76cab0ec-1004-4fa2-ba2f-70f0f59c7682" width="325" height="auto"/> <img align="right" alt="TokitouGif" src="https://i.ibb.co/HPBBT0c/muichirotokito-demonslayer.gif" width="250" height="auto"/>
