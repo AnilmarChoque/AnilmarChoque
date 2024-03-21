@@ -3,6 +3,10 @@
 
 🧠 Estou aprendendo Análise e Desenvolvimento de Sistemas
 
+🎓 Formado em: <br>
+    <b>Desenvolvimento de Sistemas</b> pela ETEC Horácio Augusto da Silveira; <br>
+    <b>Redes de Computadores</b> pela SENAI Roberto Simonsen
+
 ## Redes Sociais:
 <div> 
   <a href="https://www.instagram.com/__nilxyz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
